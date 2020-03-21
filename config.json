@@ -1,0 +1,10 @@
+{
+    "Server":{
+        "Port":1111,
+        "SqLiteDB":"/home/bryan/code/go/src/Sandy/db.sql"
+    },
+    "Client":{
+        "Target":"http://127.0.0.1:1111/group/test",
+        "AuthorizedKeyFile":"/home/bryan/auth"
+    }
+}
